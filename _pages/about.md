@@ -17,42 +17,76 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About Me
+I am currently a first-year Ph.D. student at the [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/english/index.htm). I am a member of the [Intelligent Information Retrieval Lab (IIR)](https://ruc-iir-lab.github.io/), supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ) and Assoc. Prof. [Xiao Zhang](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=en). My research interests include **Large Language Models**, **Reinforcement Learning**, **Information Retrieval**, and **Recommender Systems**. I am always open to collaboration and discussions in these areas. If you are interested, please feel free to reach out!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# Selected Awards
+- 🥇 **Gold Medal**, ACM-ICPC Asia Regional Contest, Nanjing, 2024  
+- 🥈 **Silver Medal**, China Collegiate Programming Contest (CCPC), Zhengzhou, 2024  
+- 🥉 **Bronze Medal**, ACM-ICPC Asia Regional Contest, Hangzhou, 2024  
+- 🌍 **Top 0.36% (32 / 8785)** Worldwide, IEEE Xtreme 18 Programming Competition — 2nd in China, 2024  
 
+# Publications
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/project1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 📝 Publications 
+### [Efficient Activation Optimization for Large-Scale Model Training](#)
+**Advisor:** Prof. Yuan Kun, *Peking University* **Duration:** Mar 2025 – May 2025  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+- Focused on activation compression algorithms by analyzing the structured sparsity of activation tensors, and developed a dynamic quantization-based mixed-granularity compression scheme.  
+- Extended the **COAT quantization framework** to **INT8** and implemented full-process verification on **OLMo**, achieving performance nearly lossless compared to the BF16 baseline.  
+- Explored **mixed-granularity activation quantization**, achieving **1.6× acceleration** and **40.8% activation memory reduction** on a single-layer Transformer, and **1.68× end-to-end training speedup** with **35.1% peak memory reduction**.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Project</div><img src='images/project2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### [Multimodal Large Model Reasoning for Visual Puzzle Understanding](#)
+**Institution:** Shanghai Innovation Institute
+**Duration:** May 2025  
+
+- Addressed reasoning limitations of large models on **visual grid puzzles** by designing an integrated approach combining **full-parameter fine-tuning**, **Chain-of-Thought (CoT) distillation**, **multi-source data fusion**, and **diversified prompt engineering**.  
+- Designed a **CoT distillation pipeline** using *Qwen2.5-VL-72B* to generate reasoning process samples for data augmentation, applying a progressive fusion strategy to boost *Qwen2.5-VL-7B-Instruct*’s cross-task accuracy from **52% to 72%**.  
+- Introduced **VGRP-Bench** and designed a **perturbation-based data augmentation** strategy, raising accuracy on high-difficulty tasks (*Aquarium*) from **79% to 92%**.  
+- Achieved **4th place (Top 0.7%)** in the *Multimodal Reasoning Puzzle Challenge*.
+
+</div>
+</div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- This paper presents a residual learning framework to ease the training of networks that are substantially deeper than those used previously.
+
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# Honors and Scholarships
+- 🌟 **National Scholarship** (Dec 2024, Dec 2023)  
+- 💡 **CCF Outstanding Undergraduate Program** (Nov 2024)  
+- ✨ **First-Class Scholarship**, Xidian University (Dec 2022)  
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Education
+- *2025.09 – Present*, **Ph.D. Candidate**, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, China  
+- *2021.09 – 2025.06*, **B.Eng.**, School of Computer Science, Xidian University, Xi’an, China  
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Internships
+- *2025.10 – Present*, [Tencent WeChat Group](https://github.com/), China  
+  
+# Invited Talks
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  - Invited to give a talk at the Programming Contest Seminar of Xidian University — [news](https://mp.weixin.qq.com/s/mXxvLBQzaQkp8iAplRgCAw)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# Other
+In my spare time, I enjoy participating in Programming Contests and playing chess. I have been playing chess since the age of four and hold the title of **Master of the Chinese Chess Association**. I was the **Youth Champion of Anhui Province** in **2012, 2013, and 2014**.
