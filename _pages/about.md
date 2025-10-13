@@ -77,8 +77,8 @@ I am currently a first-year Ph.D. student at the [Gaoling School of Artificial I
 - ✨ **First-Class Scholarship**, Xidian University (Dec 2022)  
 
 # Education
-- *2025.09 – Present*, **Ph.D. Candidate**, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, China  
-- *2021.09 – 2025.06*, **B.Eng.**, School of Computer Science, Xidian University, Xi’an, China  
+- *2026.09 – Present*, **Ph.D. Candidate**, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, China  
+- *2022.09 – 2026.06*, **B.Eng.**, School of Computer Science, Xidian University, Xi’an, China  
 
 # Internships
 - *2025.10 – Present*, [Tencent WeChat Group](https://github.com/), China  
