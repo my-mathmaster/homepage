@@ -73,7 +73,7 @@ I am currently a first-year Ph.D. student at the [Gaoling School of Artificial I
 
 # Honors and Scholarships
 - 🌟 **National Scholarship** (Dec 2024, Dec 2023)  
-- 💡 **CCF Outstanding Undergraduate Program** (Nov 2024)  
+- 💡 **CCF Outstanding Undergraduate Program** (Oct 2025)  
 - ✨ **First-Class Scholarship**, Xidian University (Dec 2022)  
 
 # Education
