@@ -8,7 +8,9 @@
 # Site Settings
 title                    : "Tongyu Wen"
 description              : "Ph.D. At Renmin University of China "
-repository               : "afy03/afy03.github.io"
+repository               : "my-mathmaster/homepage"
+url                      : "https://afywty.top"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
