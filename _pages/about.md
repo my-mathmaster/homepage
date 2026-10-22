@@ -72,9 +72,11 @@ I am currently a first-year Ph.D. student at the [Gaoling School of Artificial I
 </div> -->
 
 # Honors and Scholarships
-- 🌟 **National Scholarship** (Dec 2024, Dec 2023)  
-- 💡 **CCF Outstanding Undergraduate Program** (Oct 2025)  
-- ✨ **First-Class Scholarship**, Xidian University (Dec 2022)  
+- 🌟 **National Scholarship** (2023, 2024, 2025)
+- 🏅 **Lenovo Scholarship** (Jan 2026)
+- 💡 **CCF Outstanding Undergraduate Program** (Oct 2025)
+- ✨ **First-Class Scholarship**, Xidian University (2022–2023)
+- 🎓 **Outstanding Graduate Scholarship**, Xidian University (2025–2026)
 
 # Education
 - *2026.09 – Present*, **Ph.D. Candidate**, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, China  
